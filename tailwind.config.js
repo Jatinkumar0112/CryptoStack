@@ -23,7 +23,7 @@ green: "#25da72",
     base: "16px"
     },
   },
-  plugins: [],
+  plugins: [require("tailwind-scrollbar")],
 }
 
 
